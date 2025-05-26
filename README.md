@@ -35,19 +35,6 @@ I'm a passionate developer who loves to create beautiful and functional applicat
 
 ## 🏆 Projects
 
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
-  </a>
-</div>
-
-<details>
- <details>
-  <summary>📊 More Projects</summary>
-  
   ### 🛒 E-commerce Platform
   A full-featured e-commerce solution with product catalog, shopping cart, secure checkout, and admin dashboard. Built with React, Node.js, Express, and MongoDB. Features include user authentication, payment processing with Stripe, order tracking, and responsive design for mobile shopping.
   [Link to Project](https://github.com/yourusername/ecommerce-platform)
@@ -59,8 +46,6 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   ### 💪 Health & Fitness Tracker
   A comprehensive health and fitness application that allows users to track workouts, nutrition, and wellness metrics. Built with React Native for cross-platform mobile experience, with a Node.js backend and MongoDB. Features include customizable workout plans, calorie and macronutrient tracking, progress charts, integration with wearable devices, and social sharing capabilities.
   [Link to Project](https://github.com/Usernyagah/health-fitness-tracker)
-</details>
-
 
 
 ## 📈 GitHub Stats
@@ -69,12 +54,6 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   <img src="https://github-readme-stats.vercel.app/api?username=Usernyagah&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usernyagah&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernyagah&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Usernyagah&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🔗 Connect With Me
