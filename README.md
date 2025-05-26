@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to create beautiful and functional applications. My journey in tech started [your story here] and I've been coding ever since.
+I'm a passionate developer who loves to create beautiful and functional applications. My journey in tech started 2019 and I've been coding ever since.
 
 - 🔭 I'm currently working on E-commerce Platform.
 - 🌱 I'm currently learning Devops.
