@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Dennis Nyagah.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Designer;UI/UX+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Designer;Web3+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
