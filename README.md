@@ -41,7 +41,7 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   
   ### ✅ Task Management App
   A productivity application that helps users organize tasks, set priorities, and track progress. Developed using React, Redux for state management, and Firebase for real-time database functionality. Includes features like drag-and-drop task organization, deadline notifications, team collaboration tools, and data visualization for productivity insights.
-  [Link to Project](https://github.com/Usernyagah/task-management-app)
+  [Link to Project](https://taskmanager-theta-ten.vercel.app/)
   
   ### 💪 Health & Fitness Tracker
   A comprehensive health and fitness application that allows users to track workouts, nutrition, and wellness metrics. Built with React Native for cross-platform mobile experience, with a Node.js backend and MongoDB. Features include customizable workout plans, calorie and macronutrient tracking, progress charts, integration with wearable devices, and social sharing capabilities.
