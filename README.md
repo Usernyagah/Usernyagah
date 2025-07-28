@@ -12,11 +12,11 @@
 
 I'm a passionate developer who loves to create beautiful and functional applications. My journey in tech started 2019 and I've been coding ever since.
 
-- 🔭 I'm currently working on E-commerce Platform.
+- 🔭 I'm currently working on Web3 applications.
 - 🌱 I'm currently learning Devops.
 - 👯 I'm looking to collaborate on Web apps.
 - 💬 Ask me about Web Development.
-- ⚡ Fun fact: I am motivated by collaborating in projects.
+- ⚡ Fun fact: I love collaborating in projects.
 
 ## 🛠️ Skills & Technologies
 
@@ -43,9 +43,9 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   A productivity application that helps users organize tasks, set priorities, and track progress. Developed using React, Redux for state management, and Firebase for real-time database functionality. Includes features like drag-and-drop task organization, deadline notifications, team collaboration tools, and data visualization for productivity insights.
   [Link to Project](https://taskmanager-theta-ten.vercel.app/)
   
-  ### 💪 Health & Fitness Tracker
-  A comprehensive health and fitness application that allows users to track workouts, nutrition, and wellness metrics. Built with React Native for cross-platform mobile experience, with a Node.js backend and MongoDB. Features include customizable workout plans, calorie and macronutrient tracking, progress charts, integration with wearable devices, and social sharing capabilities.
-  [Link to Project](https://github.com/Usernyagah/health-fitness-tracker)
+  ### Landsafix
+  LandsaFix is a full-stack web application that connects users with professional landscapers in Kenya. The platform allows users to explore landscaping services, book appointments, and transform their outdoor spaces with ease.
+  [Link to Project](https://landscaping-zeta.vercel.app/)
 
 
 ## 📈 GitHub Stats
