@@ -41,7 +41,7 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   
   ### ✅ Task Management App
   A productivity application that helps users organize tasks, set priorities, and track progress. Developed using React, Redux for state management, and Firebase for real-time database functionality. Includes features like drag-and-drop task organization, deadline notifications, team collaboration tools, and data visualization for productivity insights.
-  [Link to Project](https://taskmanager-theta-ten.vercel.app/)
+  [Link to Project](https://taskmanager-two-pearl.vercel.app/)
   
   ### Landsafix
   LandsaFix is a full-stack web application that connects users with professional landscapers in Kenya. The platform allows users to explore landscaping services, book appointments, and transform their outdoor spaces with ease.
