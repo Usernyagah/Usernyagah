@@ -53,7 +53,7 @@ I'm a passionate developer who loves to create beautiful and functional applicat
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Usernyagah&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usernyagah&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernyagah&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernyagah&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </div>
 
 ## 🔗 Connect With Me
