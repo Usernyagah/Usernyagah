@@ -33,20 +33,6 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   <!-- Add or remove technologies as needed -->
 </p>
 
-## 🏆 Projects
-
-  ### 🛒 E-commerce Platform
-  A full-featured e-commerce solution with product catalog, shopping cart, secure checkout, and admin dashboard. Built with React, Node.js, Express, and MongoDB. Features include user authentication, payment processing with Stripe, order tracking, and responsive design for mobile shopping.
-  [Link to Project](https://github.com/yourusername/ecommerce-platform)
-  
-  ### ✅ Task Management App
-  A productivity application that helps users organize tasks, set priorities, and track progress. Developed using React, Redux for state management, and Firebase for real-time database functionality. Includes features like drag-and-drop task organization, deadline notifications, team collaboration tools, and data visualization for productivity insights.
-  [Link to Project](https://taskmanager-two-pearl.vercel.app/)
-  
-  ### Landsafix
-  LandsaFix is a full-stack web application that connects users with professional landscapers in Kenya. The platform allows users to explore landscaping services, book appointments, and transform their outdoor spaces with ease.
-  [Link to Project](https://landscaping-zeta.vercel.app/)
-
 
 ## 📈 GitHub Stats
 
@@ -88,15 +74,4 @@ I'm a passionate developer who loves to create beautiful and functional applicat
   
 </div>
 
-<!--
-Here are some ideas to make your GitHub profile README more personalized:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
