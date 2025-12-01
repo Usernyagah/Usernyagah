@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Dennis Nyagah.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Designer;Blockchain+Builder;Always+leveling+up+💡&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Designer;Blockchain+Builder;Always+Leveling+Up💡&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
@@ -42,9 +42,13 @@ Since writing my first line of code in **2019**, I’ve been obsessed with turni
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usernyagah&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usernyagah&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernyagah&layout=compact&theme=radical&cache_seconds=3600" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Usernyagah&show_icons=true&theme=radical&rank_icon=github" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=Usernyagah&theme=radical" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usernyagah&layout=compact&theme=radical" />
+
 </div>
 
 ---
@@ -66,9 +70,10 @@ Since writing my first line of code in **2019**, I’ve been obsessed with turni
 </div>
 
 <div align="center">
-  
-  ### ⭐ Show some love — star a repo!
+
+### ⭐ Show some love — star a repo!
 
 </div>
+
 
 
